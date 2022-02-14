@@ -1,1 +1,5 @@
 __pycache__/
+doctrees/
+_sources/
+.buildinfo
+objects.inv
