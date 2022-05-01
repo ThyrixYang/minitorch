@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"esbonio.server.enabled": true,
+		"esbonio.sphinx.confDir": "/home/yangjq/Working/minitorch/docs/source"
+	}
 }

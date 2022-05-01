@@ -11,3 +11,10 @@ master docs test
 .. note::
 
    This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+
+   api
